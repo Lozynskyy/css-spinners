@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lozynskyy/test-project#readme",
   "dependencies": {
+    "browser-sync": "^2.23.7",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.1"
   }
