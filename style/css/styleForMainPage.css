@@ -1,0 +1,18 @@
+.project-link {
+  color: #000;
+  font-size: 20px;
+  font-family: sans-serif;
+  text-decoration: none; }
+  .project-link:after {
+    display: block;
+    content: "";
+    width: 0;
+    height: 2px;
+    background-color: #000;
+    transition: width 0.5s linear; }
+  .project-link:hover:after {
+    display: block;
+    content: "";
+    width: 80px;
+    height: 2px;
+    background-color: #000; }
